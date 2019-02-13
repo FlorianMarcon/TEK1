@@ -1,0 +1,3 @@
+[submodule "102architect"]
+	path = 102architect
+	url = https://github.com/FlorianMarcon/102architect.git
