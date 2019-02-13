@@ -37,3 +37,51 @@
 [submodule "Corewar"]
 	path = Corewar
 	url = https://github.com/FlorianMarcon/Corewar.git
+[submodule "106bombyx"]
+	path = 106bombyx
+	url = https://github.com/FlorianMarcon/106bombyx.git
+[submodule "107transfer"]
+	path = 107transfer
+	url = https://github.com/FlorianMarcon/107transfer.git
+[submodule "108trigo"]
+	path = 108trigo
+	url = https://github.com/FlorianMarcon/108trigo.git
+[submodule "109titration"]
+	path = 109titration
+	url = https://github.com/FlorianMarcon/109titration.git
+[submodule "110borwein"]
+	path = 110borwein
+	url = https://github.com/FlorianMarcon/110borwein.git
+[submodule "CPE_corewar"]
+	path = CPE_corewar
+	url = https://github.com/FlorianMarcon/CPE_corewar.git
+[submodule "CPE_lemin"]
+	path = CPE_lemin
+	url = https://github.com/FlorianMarcon/CPE_lemin.git
+[submodule "CPE_matchstick"]
+	path = CPE_matchstick
+	url = https://github.com/FlorianMarcon/CPE_matchstick.git
+[submodule "CPE_n4s"]
+	path = CPE_n4s
+	url = https://github.com/FlorianMarcon/CPE_n4s.git
+[submodule "Dante"]
+	path = Dante
+	url = https://github.com/FlorianMarcon/Dante.git
+[submodule "my_rpg"]
+	path = my_rpg
+	url = https://github.com/FlorianMarcon/my_rpg.git
+[submodule "my_world"]
+	path = my_world
+	url = https://github.com/FlorianMarcon/my_world.git
+[submodule "PSU_42sh"]
+	path = PSU_42sh
+	url = https://github.com/FlorianMarcon/PSU_42sh.git
+[submodule "PSU_minishell2"]
+	path = PSU_minishell2
+	url = https://github.com/FlorianMarcon/PSU_minishell2.git
+[submodule "PSU_navy"]
+	path = PSU_navy
+	url = https://github.com/FlorianMarcon/PSU_navy.git
+[submodule "PSU_tetris"]
+	path = PSU_tetris
+	url = https://github.com/FlorianMarcon/PSU_tetris.git
