@@ -1,3 +1,39 @@
 [submodule "102architect"]
 	path = 102architect
 	url = https://github.com/FlorianMarcon/102architect.git
+[submodule "103cipher"]
+	path = 103cipher
+	url = https://github.com/FlorianMarcon/103cipher.git
+[submodule "104intersection"]
+	path = 104intersection
+	url = https://github.com/FlorianMarcon/104intersection.git
+[submodule "105torus"]
+	path = 105torus
+	url = https://github.com/FlorianMarcon/105torus.git
+[submodule "CPE_getnextline"]
+	path = CPE_getnextline
+	url = https://github.com/FlorianMarcon/CPE_getnextline.git
+[submodule "CPE_pushswap"]
+	path = CPE_pushswap
+	url = https://github.com/FlorianMarcon/CPE_pushswap.git
+[submodule "PSU_minishell1"]
+	path = PSU_minishell1
+	url = https://github.com/FlorianMarcon/PSU_minishell1.git
+[submodule "PSU_my_ls"]
+	path = PSU_my_ls
+	url = https://github.com/FlorianMarcon/PSU_my_ls.git
+[submodule "PSU_my_printf"]
+	path = PSU_my_printf
+	url = https://github.com/FlorianMarcon/PSU_my_printf.git
+[submodule "PSU_my_sokoban"]
+	path = PSU_my_sokoban
+	url = https://github.com/FlorianMarcon/PSU_my_sokoban.git
+[submodule "CPE_BSQ"]
+	path = CPE_BSQ
+	url = https://github.com/FlorianMarcon/CPE_BSQ.git
+[submodule "101pong"]
+	path = 101pong
+	url = https://github.com/FlorianMarcon/101pong.git
+[submodule "Corewar"]
+	path = Corewar
+	url = https://github.com/FlorianMarcon/Corewar.git
